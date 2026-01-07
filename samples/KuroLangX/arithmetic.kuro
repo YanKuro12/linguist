@@ -1,4 +1,4 @@
-a = 5 + 3
-b = 10 / 2
-c = 7 * 4
-print(a, b, c)
+var a = 5 + 3
+var b = 10 / 2
+var c = 7 * 4
+Console.print(a, b, c)
