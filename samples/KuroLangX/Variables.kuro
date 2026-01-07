@@ -1,4 +1,4 @@
-x = 10
-y = "kuro"
-flag = true
-print(x, y, flag)
+var x = 10
+var y = "kuro"
+var flag = true
+Console.print(x, y, flag)
